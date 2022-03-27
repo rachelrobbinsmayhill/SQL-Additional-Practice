@@ -1,0 +1,1 @@
+# This repository is used to store additional SQL practice from Practical SQL 2nd Edition. 
